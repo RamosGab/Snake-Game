@@ -3,6 +3,7 @@
 #- Collision of the snake with itself
 #- Punctuation
 #- Put a background 
+#- To do a second snake
 
 import pygame
 from pygame.locals import *
